@@ -1,0 +1,6 @@
+names:
+  0: colony
+nc: 1
+path: C:\Users\FabLab_Leuven\Documents\colonies_counter\backend\data
+train: train/images
+val: train/images

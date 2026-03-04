@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm create vite@latest frontend -- --template react)",
+      "Bash(npm install)",
+      "Bash(npm install lucide-react)",
+      "Bash(venv/Scripts/pip install -r requirements.txt)",
+      "Bash(venv/Scripts/python.exe -c \":*)"
+    ]
+  }
+}
